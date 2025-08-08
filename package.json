@@ -2,7 +2,7 @@
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Cypher-Kami.github.io/ecommerce-product-card-test",
+  "homepage": "https://cypher-kami.github.io/ecommerce-product-card-test",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@sendgrid/mail": "^8.1.5",
