@@ -23,7 +23,7 @@ import { Toaster } from "react-hot-toast";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/ecommerce-product-card-test">
     <ScrollToTop>
       <Provider store={store}>
         <Routes>
